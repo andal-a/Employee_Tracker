@@ -14,7 +14,7 @@ This application allows clients to easily manage and keep track of a company's r
 
 ## Preview
 
-![Employee Tracker video](assets/preview.gif)
+![Employee Tracker video](assets/Preview.gif)
 
 ## Installation
 1. Clone the repository. 
